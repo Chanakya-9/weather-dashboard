@@ -3,7 +3,10 @@
 A modern weather application built with **React**, **Vite**, and **Material UI** that allows users to search for any city and view its current weather conditions using the OpenWeather API.
 
 ---
+## 🌐 Live Demo
 
+https://weather-dashboard-xi-eight.vercel.app
+---
 ## 📸 Preview
 
 <img width="1127" height="776" alt="image" src="https://github.com/user-attachments/assets/387692e9-ee6a-484f-94fe-64f07adf88ea" />
