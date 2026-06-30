@@ -1,0 +1,112 @@
+.searchBox {
+    width: 400px;
+    margin: 80px auto;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+.searchBox h3 {
+    margin-bottom: 25px;
+    color: #333;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.searchBox form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.searchBox .MuiTextField-root {
+    width: 100%;
+}
+
+.searchBox .MuiButton-root {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(1deg, #2d3034, #03101b);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.searchBox {
+    width: 420px;
+    margin: 60px auto;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+.searchBox h3 {
+    margin-bottom: 25px;
+    color: #1976d2;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.searchBox form {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.searchBox .MuiTextField-root {
+    width: 100%;
+}
+
+.searchBox .MuiButton-root {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.searchBox .MuiButton-root:hover {
+    transform: scale(1.02);
+    transition: 0.3s;
+}
+
+.weatherInfo {
+    margin-top: 30px;
+    text-align: left;
+    background: #f5f9ff;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #dce8ff;
+}
+
+.weatherInfo h2 {
+    margin: 0 0 15px;
+    text-align: center;
+    color: #0d47a1;
+    font-size: 24px;
+}
+
+.weatherInfo p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #444;
+    display: flex;
+    justify-content: space-between;
+}
+
+.weatherInfo strong {
+    color: #222;
+}
+
